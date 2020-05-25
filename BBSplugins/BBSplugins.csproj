@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Casasoft.BBS.Plugins</AssemblyName>
+    <RootNamespace>Casasoft.BBS.Plugins</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Casasoft.BBS.UI" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
